@@ -15,4 +15,4 @@ namespace Tyuiu.KorobeinikovaDD.Sprint0.Task3.V0
             Console.ReadKey();
         }
     }
-}
+} 
