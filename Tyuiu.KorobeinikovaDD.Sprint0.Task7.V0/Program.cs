@@ -60,10 +60,10 @@ namespace Tyuiu.KorobeinikovaDD.Sprint0.Task7.V0
             {
                 Console.WriteLine("Ошибка! Горим!");
             }
-                Console.ReadKey();
+                Console.ReadKey();  
             
-           
+            
         }
-    }
-}
+    }  
+}   
 
